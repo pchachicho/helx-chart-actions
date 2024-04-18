@@ -8,6 +8,7 @@ on:
     # paths-ignore:
     #   - .github/workflows/*
     #   - .github/*
+    
 jobs:
   Run-Helm-Docs:
     uses: pchachicho/renci-github-actions/.github/workflows/run-helm-docs.yml@main
